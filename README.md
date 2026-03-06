@@ -83,7 +83,7 @@ green - all sensors are on
 - If you wish to add your own devices make sure you input the right parameter in the right place as there are lack of validation in some places which may break the code if exploited.
 - You may find that if you run Creation very quickly two times you will find that you've exceeded that amount of adafruit requests [like this](/Media/C83DAEF0-7CBD-40F8-81AA-B246FD53D12B.jpeg)
 - If the LED matrix isn't working look [here](https://forums.raspberrypi.com/viewtopic.php?t=192033) for a solution
-- If you are having trouble with something else that isn't listed give me an email at: o.kovalchuk@rgu.ac.uk
+- ~~If you are having trouble with something else that isn't listed give me an email at: o.kovalchuk@rgu.ac.uk~~
 
 ## How to add stuff to GitHub
 How to add to git:
