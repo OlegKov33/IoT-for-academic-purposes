@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Y_QRUVPr)
-
 # CM2110-IOT-coursework
 > [!Note]
 > This project was done as a part of a university module in the 2022-23 academic year. It will be posted as archive material to showcase my skills.
